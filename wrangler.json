@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "masia-analytics",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4c39e701-a86b-4f3a-a0cc-0749f9808f75",
+			"database_name": "masia_analytics"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
